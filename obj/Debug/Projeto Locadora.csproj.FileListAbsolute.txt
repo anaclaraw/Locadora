@@ -1,0 +1,427 @@
+C:\Users\aluno\Desktop\Projeto Locadora\Projeto Locadora\bin\Debug\Projeto Locadora.exe.config
+C:\Users\aluno\Desktop\Projeto Locadora\Projeto Locadora\bin\Debug\Projeto Locadora.exe
+C:\Users\aluno\Desktop\Projeto Locadora\Projeto Locadora\bin\Debug\Projeto Locadora.pdb
+C:\Users\aluno\Desktop\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto Locadora.csprojAssemblyReference.cache
+C:\Users\aluno\Desktop\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCargocs.resources
+C:\Users\aluno\Desktop\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto_Locadora.Properties.Resources.resources
+C:\Users\aluno\Desktop\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto Locadora.exe
+C:\Users\aluno\Desktop\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto Locadora.pdb
+C:\Users\aluno\Desktop\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCliente.resources
+C:\Users\aluno\Desktop\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMenu.resources
+C:\Users\aluno\Documents\Projeto Locadora\Projeto Locadora\bin\Debug\Projeto Locadora.exe.config
+C:\Users\aluno\Documents\Projeto Locadora\Projeto Locadora\bin\Debug\Projeto Locadora.exe
+C:\Users\aluno\Documents\Projeto Locadora\Projeto Locadora\bin\Debug\Projeto Locadora.pdb
+C:\Users\aluno\Documents\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto Locadora.csprojAssemblyReference.cache
+C:\Users\aluno\Documents\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCargocs.resources
+C:\Users\aluno\Documents\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCliente.resources
+C:\Users\aluno\Documents\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCliente_Regs.resources
+C:\Users\aluno\Documents\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMenu.resources
+C:\Users\aluno\Documents\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmModelo.resources
+C:\Users\aluno\Documents\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto_Locadora.Properties.Resources.resources
+C:\Users\aluno\Documents\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.GenerateResource.cache
+C:\Users\aluno\Documents\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto Locadora.exe
+C:\Users\aluno\Documents\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto Locadora.pdb
+C:\Users\aluno\Documents\Projeto Locadora\Projeto Locadora\bin\Debug\MySql.Data.dll
+C:\Users\aluno\Documents\Projeto Locadora\Projeto Locadora\bin\Debug\Google.Protobuf.dll
+C:\Users\aluno\Documents\Projeto Locadora\Projeto Locadora\bin\Debug\ZstdNet.dll
+C:\Users\aluno\Documents\Projeto Locadora\Projeto Locadora\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\aluno\Documents\Projeto Locadora\Projeto Locadora\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\aluno\Documents\Projeto Locadora\Projeto Locadora\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\aluno\Documents\Projeto Locadora\Projeto Locadora\bin\Debug\System.Buffers.dll
+C:\Users\aluno\Documents\Projeto Locadora\Projeto Locadora\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\aluno\Documents\Projeto Locadora\Projeto Locadora\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\aluno\Documents\Projeto Locadora\Projeto Locadora\bin\Debug\MySql.Data.xml
+C:\Users\aluno\Documents\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto Locadora.exe.config
+C:\Users\aluno\Documents\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.CopyComplete
+C:\Users\carol\Downloads\Projeto Locadora\Projeto Locadora\Projeto Locadora\bin\Debug\Projeto Locadora.exe.config
+C:\Users\carol\Downloads\Projeto Locadora\Projeto Locadora\Projeto Locadora\bin\Debug\Projeto Locadora.exe
+C:\Users\carol\Downloads\Projeto Locadora\Projeto Locadora\Projeto Locadora\bin\Debug\Projeto Locadora.pdb
+C:\Users\carol\Downloads\Projeto Locadora\Projeto Locadora\Projeto Locadora\bin\Debug\Google.Protobuf.dll
+C:\Users\carol\Downloads\Projeto Locadora\Projeto Locadora\Projeto Locadora\bin\Debug\ZstdNet.dll
+C:\Users\carol\Downloads\Projeto Locadora\Projeto Locadora\Projeto Locadora\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\carol\Downloads\Projeto Locadora\Projeto Locadora\Projeto Locadora\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\carol\Downloads\Projeto Locadora\Projeto Locadora\Projeto Locadora\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\carol\Downloads\Projeto Locadora\Projeto Locadora\Projeto Locadora\bin\Debug\System.Memory.dll
+C:\Users\carol\Downloads\Projeto Locadora\Projeto Locadora\Projeto Locadora\bin\Debug\System.Buffers.dll
+C:\Users\carol\Downloads\Projeto Locadora\Projeto Locadora\Projeto Locadora\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\carol\Downloads\Projeto Locadora\Projeto Locadora\Projeto Locadora\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\carol\Downloads\Projeto Locadora\Projeto Locadora\Projeto Locadora\bin\Debug\MySql.Data.xml
+C:\Users\carol\Downloads\Projeto Locadora\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.AssemblyReference.cache
+C:\Users\carol\Downloads\Projeto Locadora\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\carol\Downloads\Projeto Locadora\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto Locadora.exe.config
+C:\Users\carol\Downloads\Projeto Locadora\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCargocs.resources
+C:\Users\carol\Downloads\Projeto Locadora\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCliente.resources
+C:\Users\carol\Downloads\Projeto Locadora\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCliente_Regs.resources
+C:\Users\carol\Downloads\Projeto Locadora\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMenu.resources
+C:\Users\carol\Downloads\Projeto Locadora\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmModelo.resources
+C:\Users\carol\Downloads\Projeto Locadora\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto_Locadora.Properties.Resources.resources
+C:\Users\carol\Downloads\Projeto Locadora\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.GenerateResource.cache
+C:\Users\carol\Downloads\Projeto Locadora\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.CoreCompileInputs.cache
+C:\Users\carol\Downloads\Projeto Locadora\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.CopyComplete
+C:\Users\carol\Downloads\Projeto Locadora\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto Locadora.exe
+C:\Users\carol\Downloads\Projeto Locadora\Projeto Locadora\Projeto Locadora\obj\Debug\Projeto Locadora.pdb
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\bin\Debug\Projeto Locadora.exe.config
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\bin\Debug\Projeto Locadora.exe
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\bin\Debug\Projeto Locadora.pdb
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\bin\Debug\Google.Protobuf.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\bin\Debug\ZstdNet.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\bin\Debug\System.Memory.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\bin\Debug\System.Buffers.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\bin\Debug\MySql.Data.xml
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.AssemblyReference.cache
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\obj\Debug\Projeto Locadora.exe.config
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCliente.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCliente_Regs.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMenu.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmModelo.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\obj\Debug\Projeto_Locadora.Properties.Resources.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.GenerateResource.cache
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.CoreCompileInputs.cache
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.CopyComplete
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\obj\Debug\Projeto Locadora.exe
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\obj\Debug\Projeto Locadora.pdb
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\obj\Debug\Projeto_Locadora.frmModelo_Regs.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCargo_Regs.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCargo.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMarca.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\ProjetoLocadora\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMarca_Regs.resources
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Projeto Locadora.exe.config
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Projeto Locadora.exe
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Projeto Locadora.pdb
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\MySql.Data.dll
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Google.Protobuf.dll
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\ZstdNet.dll
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\System.Memory.dll
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\System.Buffers.dll
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\MySql.Data.xml
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csprojAssemblyReference.cache
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.exe.config
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCargo.resources
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCargo_Regs.resources
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCliente.resources
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCliente_Regs.resources
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMarca.resources
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMarca_Regs.resources
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMenu.resources
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmModelo.resources
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.frmModelo_Regs.resources
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.Properties.Resources.resources
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.GenerateResource.cache
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.CopyComplete
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.exe
+C:\Users\aluno\Documents\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.pdb
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Projeto Locadora.exe.config
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Projeto Locadora.exe
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Projeto Locadora.pdb
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\MySql.Data.dll
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Google.Protobuf.dll
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\ZstdNet.dll
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\System.Memory.dll
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\System.Buffers.dll
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\MySql.Data.xml
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csprojAssemblyReference.cache
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.exe.config
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCargo.resources
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCargo_Regs.resources
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCliente.resources
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCliente_Regs.resources
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMarca.resources
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMarca_Regs.resources
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMenu.resources
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmModelo.resources
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.frmModelo_Regs.resources
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.Properties.Resources.resources
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.GenerateResource.cache
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.CopyComplete
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.exe
+C:\Users\aluno\Documents\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.pdb
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Projeto Locadora.exe.config
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Projeto Locadora.exe
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Projeto Locadora.pdb
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Google.Protobuf.dll
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\ZstdNet.dll
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\System.Memory.dll
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\System.Buffers.dll
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\MySql.Data.xml
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.AssemblyReference.cache
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.exe.config
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCargo.resources
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCargo_Regs.resources
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCliente.resources
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCliente_Regs.resources
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMarca.resources
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMarca_Regs.resources
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMenu.resources
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmModelo.resources
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.frmModelo_Regs.resources
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.Properties.Resources.resources
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.GenerateResource.cache
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.CoreCompileInputs.cache
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.CopyComplete
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.exe
+C:\Users\beatr\Downloads\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.pdb
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Projeto Locadora.exe.config
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Projeto Locadora.exe
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Projeto Locadora.pdb
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\MySql.Data.dll
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Google.Protobuf.dll
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\ZstdNet.dll
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\System.Memory.dll
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\System.Buffers.dll
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\MySql.Data.xml
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csprojAssemblyReference.cache
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.exe.config
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCargo.resources
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCargo_Regs.resources
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCliente.resources
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCliente_Regs.resources
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMarca.resources
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMarca_Regs.resources
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMenu.resources
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmModelo.resources
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.frmModelo_Regs.resources
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.Properties.Resources.resources
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.GenerateResource.cache
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.CopyComplete
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.exe
+C:\Users\aluno\Downloads\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.pdb
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.AssemblyReference.cache
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.exe.config
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCargo.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCargo_Regs.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCliente.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCliente_Regs.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMarca.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMarca_Regs.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMenu.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmModelo.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.frmModelo_Regs.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.Properties.Resources.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.GenerateResource.cache
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.CoreCompileInputs.cache
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.exe
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.pdb
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Projeto Locadora.exe.config
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Projeto Locadora.exe
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Projeto Locadora.pdb
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Google.Protobuf.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\ZstdNet.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\System.Memory.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\System.Buffers.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\MySql.Data.xml
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\PAM\BiaPatyKeviBianca (1)\BiaPatyKeviBianca\BiaPatyKeviBianca\ProjetoLocadoraFinalizado\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.CopyComplete
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Projeto Locadora.exe.config
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Projeto Locadora.exe
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Projeto Locadora.pdb
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Google.Protobuf.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\ZstdNet.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\System.Memory.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\System.Buffers.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\MySql.Data.xml
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.AssemblyReference.cache
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.exe.config
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmAutomovel.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCargo.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCargo_Regs.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCliente.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCliente_Regs.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMarca.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMarca_Regs.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMenu.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmModelo.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.frmModelo_Regs.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.Properties.Resources.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.GenerateResource.cache
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.CoreCompileInputs.cache
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.CopyComplete
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.exe
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.pdb
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmFuncionario.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\Novas Telas - CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmLocacao.resources
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Projeto Locadora.exe.config
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Projeto Locadora.exe
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Projeto Locadora.pdb
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\MySql.Data.dll
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Google.Protobuf.dll
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\ZstdNet.dll
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\BouncyCastle.Crypto.dll
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Ubiety.Dns.Core.dll
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\System.Memory.dll
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\System.Buffers.dll
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\K4os.Compression.LZ4.dll
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\K4os.Hash.xxHash.dll
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\MySql.Data.xml
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csprojAssemblyReference.cache
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.exe.config
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmAutomovel.resources
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCargo.resources
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCargo_Regs.resources
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCliente.resources
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCliente_Regs.resources
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmFuncionario.resources
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmLocacao.resources
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMarca.resources
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMarca_Regs.resources
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMenu.resources
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmModelo.resources
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.frmModelo_Regs.resources
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.Properties.Resources.resources
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.GenerateResource.cache
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.CoreCompileInputs.cache
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.CopyComplete
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.exe
+D:\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.pdb
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Projeto Locadora.exe.config
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Projeto Locadora.exe
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Projeto Locadora.pdb
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Google.Protobuf.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\ZstdNet.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\System.Memory.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\System.Buffers.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\MySql.Data.xml
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.AssemblyReference.cache
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.exe.config
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmAutomovel.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCargo.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCargo_Regs.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCliente.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCliente_Regs.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmFuncionario.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmLocacao.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMarca.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMarca_Regs.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMenu.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmModelo.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.frmModelo_Regs.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.Properties.Resources.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.GenerateResource.cache
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.CoreCompileInputs.cache
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.CopyComplete
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.exe
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.pdb
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Projeto Locadora.exe.config
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Projeto Locadora.exe
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Projeto Locadora.pdb
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Google.Protobuf.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\ZstdNet.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\System.Memory.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\System.Buffers.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\MySql.Data.xml
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.AssemblyReference.cache
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.exe.config
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmAutomovel.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCargo.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCargo_Regs.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCliente.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCliente_Regs.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmFuncionario.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmFuncionario_Regs.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmLocacao.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMarca.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMarca_Regs.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMenu.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmModelo.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.frmModelo_Regs.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.Properties.Resources.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.GenerateResource.cache
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.CoreCompileInputs.cache
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.CopyComplete
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.exe
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.pdb
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmAutomovel_Regs.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmLocacao_Regs.resources
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Projeto Locadora.exe.config
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Projeto Locadora.exe
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Projeto Locadora.pdb
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Google.Protobuf.dll
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\ZstdNet.dll
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\System.Memory.dll
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\System.Buffers.dll
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\bin\Debug\MySql.Data.xml
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.AssemblyReference.cache
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.exe.config
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmAutomovel.resources
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmAutomovel_Regs.resources
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCargo.resources
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCargo_Regs.resources
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCliente.resources
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmCliente_Regs.resources
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmFuncionario.resources
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmFuncionario_Regs.resources
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmLocacao.resources
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmLocacao_Regs.resources
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMarca.resources
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMarca_Regs.resources
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmMenu.resources
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.FrmModelo.resources
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.frmModelo_Regs.resources
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto_Locadora.Properties.Resources.resources
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.GenerateResource.cache
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.CoreCompileInputs.cache
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.csproj.CopyComplete
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.exe
+C:\Users\carol\Downloads\projeto crud perturbacao (1)\projeto crud perturbacao\CRUD\ProjetoLocadoraFinalizado\Projeto Locadora\obj\Debug\Projeto Locadora.pdb
